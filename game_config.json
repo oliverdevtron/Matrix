@@ -1,0 +1,38 @@
+{
+    "display": {
+        "width": 70,
+        "typing_delay": 0.03
+    },
+    "gameplay": {
+        "max_alert_level": 8,
+        "starting_location": "APARTMENT",
+        "server_farm_access_code": "1999"
+    },
+    "messages": {
+        "c64_header": [
+            "    **** C=64 ZEITMASCHINE ****",
+            " 64K RAM SYSTEM 38911 BASIC BYTES FREE",
+            "",
+            "READY."
+        ],
+        "game_over_threshold": 8
+    },
+    "commands": {
+        "go": ["GEHE", "G", "LAUFE"],
+        "take": ["NIMM", "NEHMEN", "N"],
+        "look": ["SCHAU", "UMSCHAUEN", "L", "LOOK"],
+        "use": ["BENUTZE", "USE", "U"],
+        "inventory": ["INVENTAR", "INV", "I"],
+        "help": ["HILFE", "HELP", "?"],
+        "decrypt": ["DEKRYPTIERE", "DECRYPT"],
+        "hack": ["HACKE", "HACK"],
+        "talk": ["REDE", "SPRECHE", "TALK"],
+        "read": ["LIES", "LESEN", "READ"],
+        "open": ["OEFFNE", "OPEN"],
+        "push": ["DRUECKE", "PUSH"],
+        "scan": ["SCANNE", "SCAN"],
+        "code": ["CODE", "EINGABE"],
+        "quit": ["QUIT", "EXIT", "ENDE"]
+    }
+}
+
