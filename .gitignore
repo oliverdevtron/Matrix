@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vs/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
